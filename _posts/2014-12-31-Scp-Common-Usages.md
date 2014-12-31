@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Scp Common Usage
+title: Scp Common Usages
 categories: [memo, shell]
 ---
 
-scp -P port source target
+`scp -P port source target`
 
 
 本地     拷贝到     远程
 
-scp -P port /path/to/file remote_username@remote_ip:/path/to/file
+`scp -P port /path/to/file remote_username@remote_ip:/path/to/file`
 
 
 远程     拷贝到     本地
 
-scp -P port remote_username@remote_ip:/path/to/file /path/to/file
+`scp -P port remote_username@remote_ip:/path/to/file /path/to/file`
 
 
