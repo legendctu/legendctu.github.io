@@ -49,9 +49,10 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
-kramdown: 
-  input: GFM
+markdown: redcarpet
+#markdown: kramdown
+#kramdown: 
+#  input: GFM
 highlighter: pygments
 #permalink: /:title/
 permalink: /:categories/:title/
