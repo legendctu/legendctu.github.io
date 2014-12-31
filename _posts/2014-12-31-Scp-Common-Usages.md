@@ -4,7 +4,6 @@ title: Scp Common Usages
 categories: [memo, shell]
 ---
 
-12
 ```bash
 scp -P port source target
 ```
