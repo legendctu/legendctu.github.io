@@ -2,6 +2,7 @@
 layout: default
 title: Memo
 permalink: /memo/
+pageCategoryName: memo
 ---
 
 <div class="posts">
@@ -17,4 +18,9 @@ permalink: /memo/
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+</div>
+
+<div>
+{{ page.pageCategoryName }}
+
 </div>
