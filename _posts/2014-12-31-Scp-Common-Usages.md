@@ -4,8 +4,8 @@ title: Scp Common Usages
 categories: [memo, shell]
 ---
 
-123
-```powershell
+12
+```bash
 scp -P port source target
 ```
 
