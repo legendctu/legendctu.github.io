@@ -14,7 +14,7 @@ categories: [memo, shell]
 
 远程     拷贝到     本地
 
-```shell
+```
 scp -P port remote_username@remote_ip:/path/to/file /path/to/file
 ```
 
