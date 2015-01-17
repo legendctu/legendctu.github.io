@@ -4,12 +4,11 @@ title: Markdown Cheat Sheet
 categories: [memo, markdown]
 ---
 
-# Markdown Cheat Sheet
-
 ## Catalogue
 
-1.[Titles](#titles) 
-2.[Font Style](#fontstyle) 
+1.[Titles](#titles)
+
+2.[Font Style](#fontstyle)
 
 ## Content
 
@@ -25,10 +24,15 @@ categories: [memo, markdown]
 ```
 
 ### Font Style
-**B** 
-*I* 
-++U++ 
-~~D~~ 
+
+**B**
+
+*I*
+
+++U++
+
+~~D~~
+
 
 ```
 **Bold**
