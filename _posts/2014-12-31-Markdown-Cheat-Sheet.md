@@ -7,12 +7,14 @@ categories: [memo, markdown]
 # Markdown Cheat Sheet
 
 ## Catalogue
+
 1.[Titles](#titles)
 2.[Font Style](#fontstyle)
 
 ## Content
 
 ### Titles
+
 ```
 # h1
 ## h2
@@ -23,10 +25,11 @@ categories: [memo, markdown]
 ```
 
 ### Font Style
-** B **
-* I *
+**B**
+*I*
+
 ```
-** Bold **
-* Emphasize *
+**Bold**
+*Emphasize*
 ```
 
