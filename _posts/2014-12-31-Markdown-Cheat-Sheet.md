@@ -8,8 +8,8 @@ categories: [memo, markdown]
 
 ## Catalogue
 
-1.[Titles](#titles)
-2.[Font Style](#fontstyle)
+1.[Titles](#titles) 
+2.[Font Style](#fontstyle) 
 
 ## Content
 
@@ -25,11 +25,15 @@ categories: [memo, markdown]
 ```
 
 ### Font Style
-**B**
-*I*
+**B** 
+*I* 
+++U++ 
+~~D~~ 
 
 ```
 **Bold**
 *Emphasize*
+++Underline++
+~~Strikethrough~~
 ```
 
