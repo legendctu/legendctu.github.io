@@ -8,7 +8,7 @@ categories: [memo, markdown]
 
 1.[Titles](#titles)
 
-2.[Font Style](#fontstyle)
+2.[Font Style](#font-style)
 
 ## Content
 
@@ -29,15 +29,20 @@ categories: [memo, markdown]
 
 *I*
 
-++U++
-
-~~D~~
-
+==H==
 
 ```
 **Bold**
 *Emphasize*
-++Underline++
-~~Strikethrough~~
+==Highlight==
 ```
+
+### List
+
+- Unordered
+  - list 1
+  - list 2
+    - for
+      - test
+
 
