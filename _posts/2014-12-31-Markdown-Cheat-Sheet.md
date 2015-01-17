@@ -29,12 +29,9 @@ categories: [memo, markdown]
 
 *I*
 
-==H==
-
 ```
 **Bold**
 *Emphasize*
-==Highlight==
 ```
 
 ### List
@@ -44,5 +41,11 @@ categories: [memo, markdown]
   - list 2
     - for
       - test
+
+1. Ordered
+  1. list 1
+  2. list 2
+    1. for
+      1. test
 
 
