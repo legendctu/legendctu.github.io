@@ -8,11 +8,11 @@ categories: [memo, markdown]
 
 ## Catalogue
 
-1.[Titles](#1.Titles)
+1.[Titles](#Titles)
 
 ## Content
 
-### 1.Titles
+### Titles
 
 ```
 # h1
