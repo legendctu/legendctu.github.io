@@ -11,7 +11,7 @@ categories: [memo, markdown]
 ##### h5
 ###### h6
 
-```markdown
+```
 # h1
 ## h2
 ### h3
