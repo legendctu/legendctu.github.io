@@ -30,7 +30,9 @@ PS:
  *  @param [in] $postvars post data
  *  @param [in] $timeout  请求超时，单位秒
  *  @return 抓取内容
-*/
+ */
+```
+```php
 function _curlHostRequest($posturl, $postvars = null, $timeout = 3, $host = '') {
     $ch = curl_init($posturl);
     if (!empty($postvars)){
