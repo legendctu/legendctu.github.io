@@ -29,6 +29,7 @@ You can follow the steps shown in the image. Notice that socket port is the same
 Finally, you can edit your hosts file to resolve domains to the internal ip addresses.
 
 For example:
+
 ```bash
 10.13.0.23 legendctu.github.io
 ```
