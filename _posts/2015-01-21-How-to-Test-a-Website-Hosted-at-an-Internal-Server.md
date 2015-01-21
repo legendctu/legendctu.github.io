@@ -4,9 +4,19 @@ title: How to Test a Website Hosted at an Internal Server
 categories: [memo, shell]
 ---
 
-## Steps (Now we're using putty to make it happen.)
+## Steps
 
 ### 1. Build up a ssh tunnel.
+
+You can achieve it with one command line:
+
+```bash
+ssh -D 1107 user@host -p port
+```
+
+*1107* is a custom forwarding port we use later. Login and go to Step 2.
+
+Now we're using putty to make it happen.
 
 First of all, input the basic options at the Session page.
 
