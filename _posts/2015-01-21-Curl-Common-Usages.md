@@ -9,13 +9,17 @@ curl --user-agent 'this is ua' --cookie 'this=cookie&key=value' -I -x host:port 
 ```
 
 **-I**
+
 Show response header only.
 
+
 **-x**
+
 Use proxy, acting as using a host.
 
 
 PS:
+
   Here's a function using curl, written in PHP. Hosts are optional.
 
 ```php
@@ -26,7 +30,7 @@ PS:
  *  @param [in] $postvars post data
  *  @param [in] $timeout  请求超时，单位秒
  *  @return 抓取内容
- */
+*/
 function _curlHostRequest($posturl, $postvars = null, $timeout = 3, $host = '') {
     $ch = curl_init($posturl);
     if (!empty($postvars)){
