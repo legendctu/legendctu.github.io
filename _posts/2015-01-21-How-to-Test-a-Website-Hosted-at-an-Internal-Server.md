@@ -10,7 +10,7 @@ categories: [memo, shell]
 
 First of all, input the basic options at the Session page.
 
-![ssh_tunnel]({{ site.baseurl }}/images/socketforwarding1.jpg)
+![ssh_tunnel]({{ site.baseurl }}/images/socketforward1.jpg)
 
 As the image shown above, input a source port that is not occupied, and pick the "Dynamic" option. Then click the "Add" button.
 
@@ -19,7 +19,7 @@ Open the session, and login to your server. The tunnel is good to go.
 
 ### 2. Setup your browser.
 
-![setup_browser]({{ site.baseurl }}/images/socketforwarding2.jpg)
+![setup_browser]({{ site.baseurl }}/images/socketforward2.jpg)
 
 You can follow the steps shown in the image. Notice that socket port is the same to the one you just enter at Step 1.
 
