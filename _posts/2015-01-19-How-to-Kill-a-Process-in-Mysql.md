@@ -10,7 +10,7 @@ categories: [memo, mysql]
 ./mysqladmin -h host -P port -u username -p
 ```
 
-```mysql
+```sql
 USE information_schema;
 SELECT * FROM PROCESSLIST LIMIT 0, 50; --偏移量自行定义
 KILL 123; --123为进程id
