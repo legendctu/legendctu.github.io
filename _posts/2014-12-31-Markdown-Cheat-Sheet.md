@@ -14,7 +14,7 @@ categories: [memo, markdown]
 
 ### Titles
 
-```
+```markdown
 # h1
 ## h2
 ### h3
@@ -29,7 +29,7 @@ categories: [memo, markdown]
 
 *I*
 
-```
+```markdown
 **Bold**
 *Emphasize*
 ```
@@ -48,4 +48,17 @@ categories: [memo, markdown]
     1. for
       1. test
 
+```markdown
+- Unordered
+  - list 1
+  - list 2
+    - for
+      - test
+
+1. Ordered
+  1. list 1
+  2. list 2
+    1. for
+      1. test
+```
 
