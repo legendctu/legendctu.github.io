@@ -6,7 +6,7 @@
 name: legendctu
 
 # Short bio or description (displayed in the header)
-description: Web Developer on the WEB
+description: @WEB
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/1858356?v=3&s=70
@@ -49,10 +49,10 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-#markdown: kramdown
-#kramdown: 
-#  input: GFM
+#markdown: redcarpet
+markdown: kramdown
+kramdown: 
+  input: GFM
 highlighter: pygments
 #permalink: /:title/
 permalink: /:categories/:title/
