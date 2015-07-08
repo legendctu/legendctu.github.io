@@ -12,7 +12,7 @@ Fiddler > Ctrl+R > locate function Main()
 
 ### 2. Add one line of code
 
-```
+```javascript
 FiddlerObject.UI.lvSessions.AddBoundColumn("ServerIP", 120, "X-HostIP");
 ```
 
