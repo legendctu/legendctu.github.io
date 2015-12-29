@@ -11,7 +11,7 @@ A simple way to fetch contents using host:
 curl -H 'Host: legendctu.github.io' 'http://127.0.0.1/shell'
 ```
 
-
+2015-01-21:
 
 ```bash
 curl --user-agent 'this is ua' --cookie 'this=cookie&key=value' -I -x host:port 'http://legendctu.github.io'
