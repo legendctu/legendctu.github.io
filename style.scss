@@ -236,8 +236,11 @@ nav {
 // .main
 //
 
-.entry pre {
+.posts-list pre {
   overflow: auto;
+  background: #2D2D2D;
+  color: #CCC;
+  font-size: 14px;
 }
 
 .posts > .post {
