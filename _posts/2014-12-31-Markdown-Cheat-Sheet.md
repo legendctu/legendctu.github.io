@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Cheat Sheet
-categories: [memo, markdown]
+categories: [markdown]
 ---
 
 ## Catalogue

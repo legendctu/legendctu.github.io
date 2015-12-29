@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Test a Website Hosted at an Internal Server
-categories: [memo, shell]
+categories: [shell]
 ---
 
 ## Steps

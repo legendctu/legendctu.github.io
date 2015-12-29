@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kill掉Processlist的进程
-categories: [memo, mysql]
+categories: [mysql]
 ---
 
 ## 通过mysqladmin操作

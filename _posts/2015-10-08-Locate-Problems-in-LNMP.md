@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在LNMP环境下定位常见问题
-categories: [memo, linux, nginx, mysql, php]
+categories: [experience]
 ---
 
 ## 适用环境

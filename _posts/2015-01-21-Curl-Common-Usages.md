@@ -4,6 +4,14 @@ title: Curl Common Usages
 categories: [memo, shell]
 ---
 
+2015-12-29 updated:
+A simple way to fetch contents using host:
+```bash
+curl -H 'Host: legendctu.github.io' 'http://127.0.0.1/shell'
+```
+
+
+
 ```bash
 curl --user-agent 'this is ua' --cookie 'this=cookie&key=value' -I -x host:port 'http://legendctu.github.io'
 ```
