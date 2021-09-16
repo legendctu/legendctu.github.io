@@ -66,6 +66,10 @@ function _curlHostRequest($posturl, $postvars = null, $timeout = 3, $host = '') 
     }
 
     $Rec_Data = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    if($httpCode !== 200){
+        $Rec_Data = false;
+    }
     curl_close($ch);
     return $Rec_Data;
 }
