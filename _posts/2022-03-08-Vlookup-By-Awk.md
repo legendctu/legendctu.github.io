@@ -12,7 +12,7 @@ FNR refers to the record number (typically the line number) in the current file.
 NR refers to the total record number.
 
 Load the haystack first. Then print the value of your target.
-
+Be careful that if your list file has only one column, every line should be trimmed newline character first. The last column should be trimmed too.
 
 例子：播放量匹配
 
